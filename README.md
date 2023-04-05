@@ -9,7 +9,7 @@
 - 상수명 : UpperCase + SnakeCase (ex.MAX_COUNT)
 
 ## 📑 커밋 컨벤션
-### Commit Message : [Type][Subject][Body][Footer]
+#### Commit Message : [Type][Subject][Body][Footer]
 ### 📌 Type
 - Feat : 새로운 기능 추가
 - Fix : 버그 수정
