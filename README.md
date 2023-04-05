@@ -3,7 +3,6 @@
 
 
 ## 📑 네이밍룰
-### 📌 Naming Rule
 - 파일 : PascalCase + CamelCase (ex.DeclarationPrecessor.kt)
 - 클래스명 : PascalCase + CamelCase (ex.SendMessage)
 - 함수/변수명 : CamelCase (ex.userCount)
